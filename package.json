@@ -5,6 +5,11 @@
   "author": null,
   "private": true,
   "main": "node_modules/expo/AppEntry.js",
+  "rnpm": {
+    "assets": [
+      "./assets/fonts"
+    ]
+  },
   "dependencies": {
     "expo": "^19.0.0",
     "react": "16.0.0-alpha.12",
